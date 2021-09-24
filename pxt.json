@@ -1,5 +1,5 @@
 {
-    "name": "Défi 1 : Allumer les DEL à l'aide d'un ultrason",
+    "name": "Tutoriel 1 : Allumer les DEL à l'aide d'un ultrason",
     "description": "",
     "dependencies": {
         "core": "*",
